@@ -1,28 +1,55 @@
-const DOLLAR_TO_EURO_RATE = 0.92; // Adjust this rate as needed.
+// euros_to_dollars.ts
+import * as readline from "readline";
 
-function convertDollarsToEuros(amountInDollars: number, rate: number = DOLLAR_TO_EURO_RATE): number {
-  return amountInDollars * rate;
+function euroToDollars(euros: number, rate: number = 1.08): number {
+  return euros * rate;
 }
-
-declare function require(name: string): any;
-declare const process: any;
-const readline = require("readline");
 
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
 
-rl.question("Enter amount in US dollars: ", (input) => {
-  const dollars = parseFloat(input);
+function askQuestion(query: string): Promise<string> {
+  return new Promise((resolve) => {
+    rl.question(query, (answer) => resolve(answer));
+  });
+}
 
-  if (isNaN(dollars) || dollars < 0) {
-    console.log("Please enter a valid non-negative number.");
-  } else {
-    const euros = convertDollarsToEuros(dollars);
-    console.log(`${dollars.toFixed(2)} USD is approximately ${euros.toFixed(2)} EUR.`);
+async function main() {
+  try {
+    const eurosInputStr = await askQuestion("Enter amount in euros: ");
+    const eurosInput = parseFloat(eurosInputStr);
+
+    if (isNaN(eurosInput)) {
+      console.log("Please enter valid numeric values for amount and rate.");
+      rl.close();
+      return;
+    }
+
+    const rateInputStr = await askQuestion(
+      "Enter conversion rate (press Enter to use default 1.08): "
+    );
+    rl.close();
+
+    let rateValue: number;
+    if (rateInputStr.trim()) {
+      rateValue = parseFloat(rateInputStr);
+      if (isNaN(rateValue)) {
+        console.log("Please enter valid numeric values for amount and rate.");
+        return;
+      }
+    } else {
+      rateValue = 1.08;
+    }
+
+    const dollars = euroToDollars(eurosInput, rateValue);
+    console.log(
+      `${eurosInput} EUR = ${dollars.toFixed(2)} USD (rate: ${rateValue})`
+    );
+  } catch {
+    console.log("Please enter valid numeric values for amount and rate.");
   }
+}
 
-  rl.close();
-});
-
+main();
