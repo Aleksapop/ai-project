@@ -1,5 +1,14 @@
 #!/usr/bin/env python3
+"""
+Format a "Good day" greeting using last name then first name.
 
+Args:
+    first_name: The first name of the person.
+    last_name: The last name of the person.
+
+Returns:
+    A string of the greeting.
+"""                                                     
 def good_day(first_name: str, last_name: str) -> str:
     if not isinstance(first_name, str) or not first_name.strip():
         raise ValueError("`first_name` must be a non-empty string.")
