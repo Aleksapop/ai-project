@@ -1,37 +1,28 @@
-import * as readline from "readline";
+const DOLLAR_TO_EURO_RATE = 0.92; // Adjust this rate as needed.
 
-/**
- * Convert an amount from US dollars to euros.
- *
- * @param dollars - Amount in US dollars.
- * @param rate - Conversion rate (1 euro = rate dollars). Default is 1.08.
- * @returns Equivalent amount in euros.
- */
-export function dollarsToEuros(dollars: number, rate: number = 1.08): number {
-  if (typeof dollars !== "number" || Number.isNaN(dollars)) {
-    throw new Error("`dollars` must be a valid number.");
-  }
-  if (typeof rate !== "number" || Number.isNaN(rate)) {
-    throw new Error("`rate` must be a valid number.");
-  }
-
-  return dollars / rate;
+function convertDollarsToEuros(amountInDollars: number, rate: number = DOLLAR_TO_EURO_RATE): number {
+  return amountInDollars * rate;
 }
+
+declare function require(name: string): any;
+declare const process: any;
+const readline = require("readline");
 
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
 
-rl.question("Enter amount in US dollars: ", (answer) => {
-  const dollars = Number(answer);
+rl.question("Enter amount in US dollars: ", (input) => {
+  const dollars = parseFloat(input);
 
-  if (Number.isNaN(dollars)) {
-    console.error("Please enter a valid number.");
+  if (isNaN(dollars) || dollars < 0) {
+    console.log("Please enter a valid non-negative number.");
   } else {
-    const euros = dollarsToEuros(dollars);
-    console.log(`${dollars} USD is approximately ${euros.toFixed(2)} EUR.`);
+    const euros = convertDollarsToEuros(dollars);
+    console.log(`${dollars.toFixed(2)} USD is approximately ${euros.toFixed(2)} EUR.`);
   }
 
   rl.close();
 });
+
