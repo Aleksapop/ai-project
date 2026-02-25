@@ -8,5 +8,6 @@ node_modules
 .env.development
 .env.test
 .env.production
-python-notebook
 dist
+node_modules
+
