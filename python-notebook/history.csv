@@ -103,3 +103,643 @@ https://google.com,200.0,1.297,UP,77.1,2026-04-07 22:13:00
 https://github.com,200.0,0.509,UP,196.46,2026-04-07 22:13:00
 https://gigatron.rs,200.0,0.166,UP,602.41,2026-04-07 22:13:00
 https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-07 22:13:00
+https://google.com,200.0,1.191,UP,83.96,2026-04-07 22:18:03
+https://github.com,200.0,0.374,UP,267.38,2026-04-07 22:18:03
+https://gigatron.rs,200.0,0.151,UP,662.25,2026-04-07 22:18:03
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-07 22:18:03
+https://google.com,200.0,1.773,UP,56.4,2026-04-07 22:35:55
+https://github.com,200.0,0.276,UP,362.32,2026-04-07 22:35:55
+https://gigatron.rs,200.0,0.193,UP,518.13,2026-04-07 22:35:55
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-07 22:35:55
+https://google.com,200.0,1.862,UP,53.71,2026-04-07 22:52:50
+https://github.com,200.0,0.463,UP,215.98,2026-04-07 22:52:50
+https://gigatron.rs,200.0,0.154,UP,649.35,2026-04-07 22:52:50
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-07 22:52:50
+https://google.com,200.0,0.982,UP,101.83,2026-04-07 23:08:34
+https://github.com,200.0,0.195,UP,512.82,2026-04-07 23:08:34
+https://gigatron.rs,200.0,0.088,UP,1136.36,2026-04-07 23:08:34
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-07 23:08:34
+https://google.com,200.0,1.159,UP,86.28,2026-04-07 23:24:52
+https://github.com,200.0,0.23,UP,434.78,2026-04-07 23:24:52
+https://gigatron.rs,200.0,0.113,UP,884.96,2026-04-07 23:24:52
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-07 23:24:52
+https://google.com,200.0,0.64,UP,156.25,2026-04-07 23:42:17
+https://github.com,200.0,0.24,UP,416.67,2026-04-07 23:42:17
+https://gigatron.rs,200.0,0.092,UP,1086.96,2026-04-07 23:42:17
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-07 23:42:17
+https://google.com,200.0,0.959,UP,104.28,2026-04-07 23:57:46
+https://github.com,200.0,0.233,UP,429.18,2026-04-07 23:57:46
+https://gigatron.rs,200.0,0.098,UP,1020.41,2026-04-07 23:57:46
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-07 23:57:46
+https://google.com,200.0,0.917,UP,109.05,2026-04-08 00:13:24
+https://github.com,200.0,0.235,UP,425.53,2026-04-08 00:13:24
+https://gigatron.rs,200.0,0.089,UP,1123.6,2026-04-08 00:13:24
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 00:13:24
+https://google.com,200.0,0.901,UP,110.99,2026-04-08 00:28:43
+https://github.com,200.0,0.217,UP,460.83,2026-04-08 00:28:43
+https://gigatron.rs,200.0,0.096,UP,1041.67,2026-04-08 00:28:43
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 00:28:43
+https://google.com,200.0,0.648,UP,154.32,2026-04-08 00:44:55
+https://github.com,200.0,0.213,UP,469.48,2026-04-08 00:44:55
+https://gigatron.rs,200.0,0.098,UP,1020.41,2026-04-08 00:44:55
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 00:44:55
+https://google.com,200.0,0.601,UP,166.39,2026-04-08 01:00:05
+https://github.com,200.0,0.257,UP,389.11,2026-04-08 01:00:05
+https://gigatron.rs,200.0,0.106,UP,943.4,2026-04-08 01:00:05
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 01:00:05
+https://google.com,200.0,0.635,UP,157.48,2026-04-08 01:17:42
+https://github.com,200.0,0.212,UP,471.7,2026-04-08 01:17:42
+https://gigatron.rs,200.0,0.091,UP,1098.9,2026-04-08 01:17:42
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 01:17:42
+https://google.com,200.0,0.622,UP,160.77,2026-04-08 01:34:00
+https://github.com,200.0,0.213,UP,469.48,2026-04-08 01:34:00
+https://gigatron.rs,200.0,0.322,UP,310.56,2026-04-08 01:34:00
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 01:34:00
+https://google.com,200.0,0.898,UP,111.36,2026-04-08 01:50:57
+https://github.com,200.0,0.384,UP,260.42,2026-04-08 01:50:57
+https://gigatron.rs,200.0,0.079,UP,1265.82,2026-04-08 01:50:57
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 01:50:57
+https://google.com,200.0,0.668,UP,149.7,2026-04-08 02:07:25
+https://github.com,200.0,0.213,UP,469.48,2026-04-08 02:07:25
+https://gigatron.rs,200.0,0.092,UP,1086.96,2026-04-08 02:07:25
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 02:07:25
+https://google.com,200.0,0.756,UP,132.28,2026-04-08 02:25:24
+https://github.com,200.0,0.233,UP,429.18,2026-04-08 02:25:24
+https://gigatron.rs,200.0,0.084,UP,1190.48,2026-04-08 02:25:24
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 02:25:24
+https://google.com,200.0,0.585,UP,170.94,2026-04-08 02:41:07
+https://github.com,200.0,0.226,UP,442.48,2026-04-08 02:41:07
+https://gigatron.rs,200.0,0.089,UP,1123.6,2026-04-08 02:41:07
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 02:41:07
+https://google.com,200.0,0.703,UP,142.25,2026-04-08 02:58:37
+https://github.com,200.0,0.254,UP,393.7,2026-04-08 02:58:37
+https://gigatron.rs,200.0,0.128,UP,781.25,2026-04-08 02:58:37
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 02:58:37
+https://google.com,200.0,0.561,UP,178.25,2026-04-08 03:15:38
+https://github.com,200.0,0.212,UP,471.7,2026-04-08 03:15:38
+https://gigatron.rs,200.0,0.09,UP,1111.11,2026-04-08 03:15:38
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 03:15:38
+https://google.com,200.0,0.567,UP,176.37,2026-04-08 03:32:23
+https://github.com,200.0,0.234,UP,427.35,2026-04-08 03:32:23
+https://gigatron.rs,200.0,0.09,UP,1111.11,2026-04-08 03:32:23
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 03:32:23
+https://google.com,200.0,0.561,UP,178.25,2026-04-08 03:48:19
+https://github.com,200.0,0.205,UP,487.8,2026-04-08 03:48:19
+https://gigatron.rs,200.0,0.094,UP,1063.83,2026-04-08 03:48:19
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 03:48:19
+https://google.com,200.0,0.653,UP,153.14,2026-04-08 04:05:35
+https://github.com,200.0,0.217,UP,460.83,2026-04-08 04:05:35
+https://gigatron.rs,200.0,0.094,UP,1063.83,2026-04-08 04:05:35
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 04:05:35
+https://google.com,200.0,0.579,UP,172.71,2026-04-08 04:23:08
+https://github.com,200.0,0.232,UP,431.03,2026-04-08 04:23:08
+https://gigatron.rs,200.0,0.114,UP,877.19,2026-04-08 04:23:08
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 04:23:08
+https://google.com,200.0,0.632,UP,158.23,2026-04-08 04:38:51
+https://github.com,200.0,0.228,UP,438.6,2026-04-08 04:38:51
+https://gigatron.rs,200.0,0.103,UP,970.87,2026-04-08 04:38:51
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 04:38:51
+https://google.com,200.0,0.887,UP,112.74,2026-04-08 04:56:34
+https://github.com,200.0,0.335,UP,298.51,2026-04-08 04:56:34
+https://gigatron.rs,200.0,0.114,UP,877.19,2026-04-08 04:56:34
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 04:56:34
+https://google.com,200.0,0.615,UP,162.6,2026-04-08 05:14:12
+https://github.com,200.0,0.223,UP,448.43,2026-04-08 05:14:12
+https://gigatron.rs,200.0,0.108,UP,925.93,2026-04-08 05:14:12
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 05:14:12
+https://google.com,200.0,0.409,UP,244.5,2026-04-08 05:31:20
+https://github.com,200.0,0.346,UP,289.02,2026-04-08 05:31:20
+https://gigatron.rs,200.0,0.097,UP,1030.93,2026-04-08 05:31:20
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 05:31:20
+https://google.com,200.0,0.819,UP,122.1,2026-04-08 05:46:37
+https://github.com,200.0,0.341,UP,293.26,2026-04-08 05:46:37
+https://gigatron.rs,200.0,0.089,UP,1123.6,2026-04-08 05:46:37
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 05:46:37
+https://google.com,200.0,0.386,UP,259.07,2026-04-08 06:03:02
+https://github.com,200.0,0.352,UP,284.09,2026-04-08 06:03:02
+https://gigatron.rs,200.0,0.125,UP,800.0,2026-04-08 06:03:02
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 06:03:02
+https://google.com,200.0,0.391,UP,255.75,2026-04-08 06:19:55
+https://github.com,200.0,3.306,UP,30.25,2026-04-08 06:19:55
+https://gigatron.rs,200.0,0.149,UP,671.14,2026-04-08 06:19:55
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 06:19:55
+https://google.com,200.0,0.86,UP,116.28,2026-04-08 06:36:55
+https://github.com,200.0,0.332,UP,301.2,2026-04-08 06:36:55
+https://gigatron.rs,200.0,0.087,UP,1149.43,2026-04-08 06:36:55
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 06:36:55
+https://google.com,200.0,1.15,UP,86.96,2026-04-08 06:53:56
+https://github.com,200.0,0.217,UP,460.83,2026-04-08 06:53:56
+https://gigatron.rs,200.0,0.087,UP,1149.43,2026-04-08 06:53:56
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 06:53:56
+https://google.com,200.0,1.263,UP,79.18,2026-04-08 07:11:58
+https://github.com,200.0,0.812,UP,123.15,2026-04-08 07:11:58
+https://gigatron.rs,200.0,1.1,UP,90.91,2026-04-08 07:11:58
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 07:11:58
+https://google.com,200.0,0.803,UP,124.53,2026-04-08 07:29:29
+https://github.com,200.0,0.224,UP,446.43,2026-04-08 07:29:29
+https://gigatron.rs,200.0,0.105,UP,952.38,2026-04-08 07:29:29
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 07:29:29
+https://google.com,200.0,0.766,UP,130.55,2026-04-08 07:45:32
+https://github.com,200.0,0.233,UP,429.18,2026-04-08 07:45:32
+https://gigatron.rs,200.0,0.095,UP,1052.63,2026-04-08 07:45:32
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 07:45:32
+https://google.com,200.0,0.413,UP,242.13,2026-04-08 08:02:11
+https://github.com,200.0,0.318,UP,314.47,2026-04-08 08:02:11
+https://gigatron.rs,200.0,0.089,UP,1123.6,2026-04-08 08:02:11
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 08:02:11
+https://google.com,200.0,0.982,UP,101.83,2026-04-08 08:17:54
+https://github.com,200.0,0.212,UP,471.7,2026-04-08 08:17:54
+https://gigatron.rs,200.0,0.094,UP,1063.83,2026-04-08 08:17:54
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 08:17:54
+https://google.com,200.0,0.603,UP,165.84,2026-04-08 08:35:46
+https://github.com,200.0,0.249,UP,401.61,2026-04-08 08:35:46
+https://gigatron.rs,200.0,0.085,UP,1176.47,2026-04-08 08:35:46
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 08:35:46
+https://google.com,200.0,0.841,UP,118.91,2026-04-08 08:51:15
+https://github.com,200.0,0.225,UP,444.44,2026-04-08 08:51:15
+https://gigatron.rs,200.0,0.093,UP,1075.27,2026-04-08 08:51:15
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 08:51:15
+https://google.com,200.0,1.327,UP,75.36,2026-04-08 09:07:04
+https://github.com,200.0,0.223,UP,448.43,2026-04-08 09:07:04
+https://gigatron.rs,200.0,0.117,UP,854.7,2026-04-08 09:07:04
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 09:07:04
+https://google.com,200.0,1.059,UP,94.43,2026-04-08 09:24:43
+https://github.com,200.0,0.227,UP,440.53,2026-04-08 09:24:43
+https://gigatron.rs,200.0,0.105,UP,952.38,2026-04-08 09:24:43
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 09:24:43
+https://google.com,200.0,1.107,UP,90.33,2026-04-08 09:42:24
+https://github.com,200.0,0.228,UP,438.6,2026-04-08 09:42:24
+https://gigatron.rs,200.0,0.082,UP,1219.51,2026-04-08 09:42:24
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 09:42:24
+https://google.com,200.0,1.371,UP,72.94,2026-04-08 09:59:09
+https://github.com,200.0,0.218,UP,458.72,2026-04-08 09:59:09
+https://gigatron.rs,200.0,0.091,UP,1098.9,2026-04-08 09:59:09
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 09:59:09
+https://google.com,200.0,0.83,UP,120.48,2026-04-08 10:14:15
+https://github.com,200.0,0.223,UP,448.43,2026-04-08 10:14:15
+https://gigatron.rs,200.0,0.084,UP,1190.48,2026-04-08 10:14:15
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 10:14:15
+https://google.com,200.0,0.867,UP,115.34,2026-04-08 10:30:10
+https://github.com,200.0,0.233,UP,429.18,2026-04-08 10:30:10
+https://gigatron.rs,200.0,0.086,UP,1162.79,2026-04-08 10:30:10
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 10:30:10
+https://google.com,200.0,1.555,UP,64.31,2026-04-08 10:45:15
+https://github.com,200.0,0.223,UP,448.43,2026-04-08 10:45:15
+https://gigatron.rs,200.0,0.089,UP,1123.6,2026-04-08 10:45:15
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 10:45:15
+https://google.com,200.0,1.246,UP,80.26,2026-04-08 11:01:36
+https://github.com,200.0,0.225,UP,444.44,2026-04-08 11:01:36
+https://gigatron.rs,200.0,0.107,UP,934.58,2026-04-08 11:01:36
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 11:01:36
+https://google.com,200.0,1.026,UP,97.47,2026-04-08 11:18:45
+https://github.com,200.0,0.24,UP,416.67,2026-04-08 11:18:45
+https://gigatron.rs,200.0,0.094,UP,1063.83,2026-04-08 11:18:45
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 11:18:45
+https://google.com,200.0,2.983,UP,33.52,2026-04-08 11:50:10
+https://github.com,,,DOWN (Timeout),0.0,2026-04-08 11:50:10
+https://gigatron.rs,200.0,0.106,UP,943.4,2026-04-08 11:50:10
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 11:50:10
+https://google.com,200.0,1.039,UP,96.25,2026-04-08 12:05:37
+https://github.com,200.0,0.221,UP,452.49,2026-04-08 12:05:37
+https://gigatron.rs,200.0,0.098,UP,1020.41,2026-04-08 12:05:37
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 12:05:37
+https://google.com,200.0,1.287,UP,77.7,2026-04-08 12:20:55
+https://github.com,200.0,0.221,UP,452.49,2026-04-08 12:20:55
+https://gigatron.rs,200.0,0.099,UP,1010.1,2026-04-08 12:20:55
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 12:20:55
+https://google.com,200.0,1.223,UP,81.77,2026-04-08 12:27:05
+https://github.com,200.0,0.537,UP,186.22,2026-04-08 12:27:05
+https://gigatron.rs,200.0,0.099,UP,1010.1,2026-04-08 12:27:05
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 12:27:05
+https://google.com,200.0,1.212,UP,82.51,2026-04-08 12:42:30
+https://github.com,200.0,0.205,UP,487.8,2026-04-08 12:42:30
+https://gigatron.rs,200.0,0.102,UP,980.39,2026-04-08 12:42:30
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 12:42:30
+https://google.com,200.0,2.279,UP,43.88,2026-04-08 13:00:31
+https://github.com,200.0,0.233,UP,429.18,2026-04-08 13:00:31
+https://gigatron.rs,200.0,0.099,UP,1010.1,2026-04-08 13:00:31
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 13:00:31
+https://google.com,200.0,1.122,UP,89.13,2026-04-08 13:09:23
+https://github.com,200.0,0.244,UP,409.84,2026-04-08 13:09:23
+https://gigatron.rs,200.0,0.108,UP,925.93,2026-04-08 13:09:23
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 13:09:23
+https://google.com,200.0,1.36,UP,73.53,2026-04-08 13:26:11
+https://github.com,200.0,0.216,UP,462.96,2026-04-08 13:26:11
+https://gigatron.rs,200.0,0.129,UP,775.19,2026-04-08 13:26:11
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 13:26:11
+https://google.com,200.0,1.252,UP,79.87,2026-04-08 13:42:11
+https://github.com,200.0,0.233,UP,429.18,2026-04-08 13:42:11
+https://gigatron.rs,200.0,0.086,UP,1162.79,2026-04-08 13:42:11
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 13:42:11
+https://google.com,200.0,1.067,UP,93.72,2026-04-08 13:57:38
+https://github.com,200.0,0.222,UP,450.45,2026-04-08 13:57:38
+https://gigatron.rs,200.0,0.087,UP,1149.43,2026-04-08 13:57:38
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 13:57:38
+https://google.com,200.0,1.362,UP,73.42,2026-04-08 14:14:08
+https://github.com,200.0,0.224,UP,446.43,2026-04-08 14:14:08
+https://gigatron.rs,200.0,0.081,UP,1234.57,2026-04-08 14:14:08
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 14:14:08
+https://google.com,200.0,1.318,UP,75.87,2026-04-08 14:24:58
+https://github.com,200.0,0.244,UP,409.84,2026-04-08 14:24:58
+https://gigatron.rs,200.0,0.09,UP,1111.11,2026-04-08 14:24:58
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 14:24:58
+https://google.com,200.0,0.645,UP,155.04,2026-04-08 14:29:59
+https://github.com,200.0,0.285,UP,350.88,2026-04-08 14:29:59
+https://gigatron.rs,200.0,0.097,UP,1030.93,2026-04-08 14:29:59
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 14:29:59
+https://google.com,200.0,0.669,UP,149.48,2026-04-08 14:35:01
+https://github.com,200.0,0.228,UP,438.6,2026-04-08 14:35:01
+https://gigatron.rs,200.0,0.093,UP,1075.27,2026-04-08 14:35:01
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 14:35:01
+https://google.com,200.0,0.785,UP,127.39,2026-04-08 14:40:02
+https://github.com,200.0,0.228,UP,438.6,2026-04-08 14:40:02
+https://gigatron.rs,200.0,0.087,UP,1149.43,2026-04-08 14:40:02
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 14:40:02
+https://google.com,200.0,0.937,UP,106.72,2026-04-08 14:45:05
+https://github.com,200.0,0.791,UP,126.42,2026-04-08 14:45:05
+https://gigatron.rs,200.0,0.27,UP,370.37,2026-04-08 14:45:05
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 14:45:05
+https://google.com,200.0,1.482,UP,67.48,2026-04-08 14:50:08
+https://github.com,200.0,0.553,UP,180.83,2026-04-08 14:50:08
+https://gigatron.rs,200.0,0.961,UP,104.06,2026-04-08 14:50:08
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 14:50:08
+https://google.com,200.0,0.673,UP,148.59,2026-04-08 14:55:10
+https://github.com,200.0,0.214,UP,467.29,2026-04-08 14:55:10
+https://gigatron.rs,200.0,0.098,UP,1020.41,2026-04-08 14:55:10
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 14:55:10
+https://google.com,200.0,0.658,UP,151.98,2026-04-08 15:00:11
+https://github.com,200.0,0.211,UP,473.93,2026-04-08 15:00:11
+https://gigatron.rs,200.0,0.103,UP,970.87,2026-04-08 15:00:11
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 15:00:11
+https://google.com,200.0,0.663,UP,150.83,2026-04-08 15:05:12
+https://github.com,200.0,0.225,UP,444.44,2026-04-08 15:05:12
+https://gigatron.rs,200.0,0.098,UP,1020.41,2026-04-08 15:05:12
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 15:05:12
+https://google.com,200.0,0.534,UP,187.27,2026-04-08 15:10:14
+https://github.com,200.0,0.248,UP,403.23,2026-04-08 15:10:14
+https://gigatron.rs,200.0,0.095,UP,1052.63,2026-04-08 15:10:14
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 15:10:14
+https://google.com,200.0,0.628,UP,159.24,2026-04-08 15:15:15
+https://github.com,200.0,0.224,UP,446.43,2026-04-08 15:15:15
+https://gigatron.rs,200.0,0.093,UP,1075.27,2026-04-08 15:15:15
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 15:15:15
+https://google.com,200.0,0.66,UP,151.52,2026-04-08 15:20:16
+https://github.com,200.0,0.245,UP,408.16,2026-04-08 15:20:16
+https://gigatron.rs,200.0,0.198,UP,505.05,2026-04-08 15:20:16
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 15:20:16
+https://google.com,200.0,0.779,UP,128.37,2026-04-08 15:25:18
+https://github.com,200.0,0.254,UP,393.7,2026-04-08 15:25:18
+https://gigatron.rs,200.0,0.098,UP,1020.41,2026-04-08 15:25:18
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 15:25:18
+https://google.com,200.0,0.989,UP,101.11,2026-04-08 15:35:40
+https://github.com,200.0,0.211,UP,473.93,2026-04-08 15:35:40
+https://gigatron.rs,200.0,0.136,UP,735.29,2026-04-08 15:35:40
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 15:35:40
+https://google.com,200.0,0.833,UP,120.05,2026-04-08 15:40:42
+https://github.com,200.0,0.236,UP,423.73,2026-04-08 15:40:42
+https://gigatron.rs,200.0,0.139,UP,719.42,2026-04-08 15:40:42
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 15:40:42
+https://google.com,200.0,1.599,UP,62.54,2026-04-08 15:48:01
+https://github.com,200.0,0.226,UP,442.48,2026-04-08 15:48:01
+https://gigatron.rs,200.0,0.102,UP,980.39,2026-04-08 15:48:01
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 15:48:01
+https://google.com,200.0,0.722,UP,138.5,2026-04-08 15:53:02
+https://github.com,200.0,0.232,UP,431.03,2026-04-08 15:53:02
+https://gigatron.rs,200.0,0.221,UP,452.49,2026-04-08 15:53:02
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 15:53:02
+https://google.com,200.0,0.633,UP,157.98,2026-04-08 15:58:03
+https://github.com,200.0,0.243,UP,411.52,2026-04-08 15:58:03
+https://gigatron.rs,200.0,0.098,UP,1020.41,2026-04-08 15:58:03
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 15:58:03
+https://google.com,200.0,0.815,UP,122.7,2026-04-08 16:03:05
+https://github.com,200.0,0.221,UP,452.49,2026-04-08 16:03:05
+https://gigatron.rs,200.0,0.083,UP,1204.82,2026-04-08 16:03:05
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 16:03:05
+https://google.com,200.0,0.491,UP,203.67,2026-04-08 16:08:06
+https://github.com,200.0,0.246,UP,406.5,2026-04-08 16:08:06
+https://gigatron.rs,200.0,0.093,UP,1075.27,2026-04-08 16:08:06
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 16:08:06
+https://google.com,200.0,0.826,UP,121.07,2026-04-08 16:13:07
+https://github.com,200.0,0.3,UP,333.33,2026-04-08 16:13:07
+https://gigatron.rs,200.0,0.231,UP,432.9,2026-04-08 16:13:07
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 16:13:07
+https://google.com,200.0,1.098,UP,91.07,2026-04-08 16:25:46
+https://github.com,200.0,0.233,UP,429.18,2026-04-08 16:25:46
+https://gigatron.rs,200.0,0.1,UP,1000.0,2026-04-08 16:25:46
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 16:25:46
+https://google.com,200.0,0.965,UP,103.63,2026-04-08 16:30:53
+https://github.com,,,DOWN (Timeout),0.0,2026-04-08 16:30:53
+https://gigatron.rs,200.0,0.118,UP,847.46,2026-04-08 16:30:53
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 16:30:53
+https://google.com,200.0,0.879,UP,113.77,2026-04-08 16:35:54
+https://github.com,200.0,0.224,UP,446.43,2026-04-08 16:35:54
+https://gigatron.rs,200.0,0.097,UP,1030.93,2026-04-08 16:35:54
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 16:35:54
+https://google.com,200.0,0.893,UP,111.98,2026-04-08 16:40:55
+https://github.com,200.0,0.215,UP,465.12,2026-04-08 16:40:55
+https://gigatron.rs,200.0,0.095,UP,1052.63,2026-04-08 16:40:55
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 16:40:55
+https://google.com,200.0,1.002,UP,99.8,2026-04-08 16:45:57
+https://github.com,200.0,0.237,UP,421.94,2026-04-08 16:45:57
+https://gigatron.rs,200.0,0.088,UP,1136.36,2026-04-08 16:45:57
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 16:45:57
+https://google.com,200.0,0.791,UP,126.42,2026-04-08 16:50:58
+https://github.com,200.0,0.209,UP,478.47,2026-04-08 16:50:58
+https://gigatron.rs,200.0,0.106,UP,943.4,2026-04-08 16:50:58
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 16:50:58
+https://google.com,200.0,0.902,UP,110.86,2026-04-08 16:55:59
+https://github.com,200.0,0.218,UP,458.72,2026-04-08 16:55:59
+https://gigatron.rs,200.0,0.093,UP,1075.27,2026-04-08 16:55:59
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 16:55:59
+https://google.com,200.0,0.845,UP,118.34,2026-04-08 17:01:01
+https://github.com,200.0,0.236,UP,423.73,2026-04-08 17:01:01
+https://gigatron.rs,200.0,0.103,UP,970.87,2026-04-08 17:01:01
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 17:01:01
+https://google.com,200.0,0.827,UP,120.92,2026-04-08 17:06:02
+https://github.com,200.0,0.209,UP,478.47,2026-04-08 17:06:02
+https://gigatron.rs,200.0,0.168,UP,595.24,2026-04-08 17:06:02
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 17:06:02
+https://google.com,200.0,1.026,UP,97.47,2026-04-08 17:11:04
+https://github.com,200.0,0.255,UP,392.16,2026-04-08 17:11:04
+https://gigatron.rs,200.0,0.518,UP,193.05,2026-04-08 17:11:04
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 17:11:04
+https://google.com,200.0,1.067,UP,93.72,2026-04-08 17:16:06
+https://github.com,200.0,0.221,UP,452.49,2026-04-08 17:16:06
+https://gigatron.rs,200.0,0.125,UP,800.0,2026-04-08 17:16:06
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 17:16:06
+https://google.com,200.0,0.896,UP,111.61,2026-04-08 17:21:07
+https://github.com,200.0,0.218,UP,458.72,2026-04-08 17:21:07
+https://gigatron.rs,200.0,0.083,UP,1204.82,2026-04-08 17:21:07
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 17:21:07
+https://google.com,200.0,0.901,UP,110.99,2026-04-08 17:26:08
+https://github.com,200.0,0.233,UP,429.18,2026-04-08 17:26:08
+https://gigatron.rs,200.0,0.108,UP,925.93,2026-04-08 17:26:08
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 17:26:08
+https://google.com,200.0,0.995,UP,100.5,2026-04-08 17:31:10
+https://github.com,200.0,0.212,UP,471.7,2026-04-08 17:31:10
+https://gigatron.rs,200.0,0.11,UP,909.09,2026-04-08 17:31:10
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 17:31:10
+https://google.com,200.0,0.862,UP,116.01,2026-04-08 17:36:12
+https://github.com,200.0,0.241,UP,414.94,2026-04-08 17:36:12
+https://gigatron.rs,200.0,0.1,UP,1000.0,2026-04-08 17:36:12
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 17:36:12
+https://google.com,200.0,1.097,UP,91.16,2026-04-08 17:41:13
+https://github.com,200.0,0.231,UP,432.9,2026-04-08 17:41:13
+https://gigatron.rs,200.0,0.103,UP,970.87,2026-04-08 17:41:13
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 17:41:13
+https://google.com,200.0,0.964,UP,103.73,2026-04-08 17:46:15
+https://github.com,200.0,0.223,UP,448.43,2026-04-08 17:46:15
+https://gigatron.rs,200.0,0.127,UP,787.4,2026-04-08 17:46:15
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 17:46:15
+https://google.com,200.0,1.146,UP,87.26,2026-04-08 17:51:16
+https://github.com,200.0,0.258,UP,387.6,2026-04-08 17:51:16
+https://gigatron.rs,200.0,0.095,UP,1052.63,2026-04-08 17:51:16
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 17:51:16
+https://google.com,200.0,0.848,UP,117.92,2026-04-08 17:56:18
+https://github.com,200.0,0.218,UP,458.72,2026-04-08 17:56:18
+https://gigatron.rs,200.0,0.106,UP,943.4,2026-04-08 17:56:18
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 17:56:18
+https://google.com,200.0,0.888,UP,112.61,2026-04-08 18:01:19
+https://github.com,200.0,0.234,UP,427.35,2026-04-08 18:01:19
+https://gigatron.rs,200.0,0.137,UP,729.93,2026-04-08 18:01:19
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 18:01:19
+https://google.com,200.0,1.242,UP,80.52,2026-04-08 18:06:21
+https://github.com,200.0,0.202,UP,495.05,2026-04-08 18:06:21
+https://gigatron.rs,200.0,0.098,UP,1020.41,2026-04-08 18:06:21
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 18:06:21
+https://google.com,200.0,1.056,UP,94.7,2026-04-08 18:11:23
+https://github.com,200.0,0.206,UP,485.44,2026-04-08 18:11:23
+https://gigatron.rs,200.0,0.107,UP,934.58,2026-04-08 18:11:23
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 18:11:23
+https://google.com,200.0,0.891,UP,112.23,2026-04-08 18:16:24
+https://github.com,200.0,0.219,UP,456.62,2026-04-08 18:16:24
+https://gigatron.rs,200.0,0.114,UP,877.19,2026-04-08 18:16:24
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 18:16:24
+https://google.com,200.0,1.236,UP,80.91,2026-04-08 18:21:26
+https://github.com,200.0,0.204,UP,490.2,2026-04-08 18:21:26
+https://gigatron.rs,200.0,0.128,UP,781.25,2026-04-08 18:21:26
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 18:21:26
+https://google.com,200.0,1.02,UP,98.04,2026-04-08 18:26:27
+https://github.com,200.0,0.232,UP,431.03,2026-04-08 18:26:27
+https://gigatron.rs,200.0,0.094,UP,1063.83,2026-04-08 18:26:27
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 18:26:27
+https://google.com,200.0,0.985,UP,101.52,2026-04-08 18:31:29
+https://github.com,200.0,0.243,UP,411.52,2026-04-08 18:31:29
+https://gigatron.rs,200.0,0.114,UP,877.19,2026-04-08 18:31:29
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 18:31:29
+https://google.com,200.0,0.965,UP,103.63,2026-04-08 18:36:31
+https://github.com,200.0,0.223,UP,448.43,2026-04-08 18:36:31
+https://gigatron.rs,200.0,0.091,UP,1098.9,2026-04-08 18:36:31
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 18:36:31
+https://google.com,200.0,0.886,UP,112.87,2026-04-08 18:41:32
+https://github.com,200.0,0.218,UP,458.72,2026-04-08 18:41:32
+https://gigatron.rs,200.0,0.111,UP,900.9,2026-04-08 18:41:32
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 18:41:32
+https://google.com,200.0,1.049,UP,95.33,2026-04-08 18:46:35
+https://github.com,200.0,0.204,UP,490.2,2026-04-08 18:46:35
+https://gigatron.rs,200.0,0.069,UP,1449.28,2026-04-08 18:46:35
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 18:46:35
+https://google.com,200.0,0.993,UP,100.7,2026-04-08 18:51:36
+https://github.com,200.0,0.205,UP,487.8,2026-04-08 18:51:36
+https://gigatron.rs,200.0,0.079,UP,1265.82,2026-04-08 18:51:36
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 18:51:36
+https://google.com,200.0,1.229,UP,81.37,2026-04-08 18:56:37
+https://github.com,200.0,0.218,UP,458.72,2026-04-08 18:56:37
+https://gigatron.rs,200.0,0.075,UP,1333.33,2026-04-08 18:56:37
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 18:56:37
+https://google.com,200.0,1.454,UP,68.78,2026-04-08 19:13:05
+https://github.com,200.0,0.248,UP,403.23,2026-04-08 19:13:05
+https://gigatron.rs,200.0,0.118,UP,847.46,2026-04-08 19:13:05
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 19:13:05
+https://google.com,200.0,1.011,UP,98.91,2026-04-08 19:18:07
+https://github.com,200.0,0.212,UP,471.7,2026-04-08 19:18:07
+https://gigatron.rs,200.0,0.303,UP,330.03,2026-04-08 19:18:07
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 19:18:07
+https://google.com,200.0,1.148,UP,87.11,2026-04-08 19:23:09
+https://github.com,200.0,0.276,UP,362.32,2026-04-08 19:23:09
+https://gigatron.rs,200.0,0.104,UP,961.54,2026-04-08 19:23:09
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 19:23:09
+https://google.com,200.0,1.024,UP,97.66,2026-04-08 19:28:10
+https://github.com,200.0,0.259,UP,386.1,2026-04-08 19:28:10
+https://gigatron.rs,200.0,0.106,UP,943.4,2026-04-08 19:28:10
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 19:28:10
+https://google.com,200.0,1.408,UP,71.02,2026-04-08 19:33:13
+https://github.com,200.0,0.235,UP,425.53,2026-04-08 19:33:13
+https://gigatron.rs,200.0,0.077,UP,1298.7,2026-04-08 19:33:13
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 19:33:13
+https://google.com,200.0,1.144,UP,87.41,2026-04-08 19:38:14
+https://github.com,200.0,0.241,UP,414.94,2026-04-08 19:38:14
+https://gigatron.rs,200.0,0.099,UP,1010.1,2026-04-08 19:38:14
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 19:38:14
+https://google.com,200.0,1.551,UP,64.47,2026-04-08 19:43:16
+https://github.com,200.0,0.237,UP,421.94,2026-04-08 19:43:16
+https://gigatron.rs,200.0,0.09,UP,1111.11,2026-04-08 19:43:16
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 19:43:16
+https://gigatron.rs,200,0.073,UP,1369.86,2026-04-08 19:44:09
+https://github.com,200,0.195,UP,512.82,2026-04-08 19:44:09
+https://google.com,200,1.014,UP,98.62,2026-04-08 19:44:09
+https://gigatron.rs,200,0.073,UP,1369.86,2026-04-08 19:44:18
+https://github.com,200,0.195,UP,512.82,2026-04-08 19:44:18
+https://google.com,200,1.014,UP,98.62,2026-04-08 19:44:18
+https://google.com,200.0,1.136,UP,88.03,2026-04-08 19:48:18
+https://github.com,200.0,0.236,UP,423.73,2026-04-08 19:48:18
+https://gigatron.rs,200.0,0.1,UP,1000.0,2026-04-08 19:48:18
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 19:48:18
+https://google.com,200.0,1.122,UP,89.13,2026-04-08 19:53:20
+https://github.com,200.0,0.279,UP,358.42,2026-04-08 19:53:20
+https://gigatron.rs,200.0,0.142,UP,704.23,2026-04-08 19:53:20
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 19:53:20
+https://google.com,200.0,1.185,UP,84.39,2026-04-08 19:58:21
+https://github.com,200.0,0.3,UP,333.33,2026-04-08 19:58:21
+https://gigatron.rs,200.0,0.097,UP,1030.93,2026-04-08 19:58:21
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 19:58:21
+https://google.com,200.0,1.412,UP,70.82,2026-04-08 20:03:24
+https://github.com,200.0,0.228,UP,438.6,2026-04-08 20:03:24
+https://gigatron.rs,200.0,0.106,UP,943.4,2026-04-08 20:03:24
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 20:03:24
+https://google.com,200.0,1.136,UP,88.03,2026-04-08 20:08:26
+https://github.com,200.0,0.238,UP,420.17,2026-04-08 20:08:26
+https://gigatron.rs,200.0,0.088,UP,1136.36,2026-04-08 20:08:26
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 20:08:26
+https://google.com,200.0,1.109,UP,90.17,2026-04-08 20:13:27
+https://github.com,200.0,0.223,UP,448.43,2026-04-08 20:13:27
+https://gigatron.rs,200.0,0.095,UP,1052.63,2026-04-08 20:13:27
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 20:13:27
+https://google.com,200.0,1.034,UP,96.71,2026-04-08 20:18:29
+https://github.com,200.0,0.245,UP,408.16,2026-04-08 20:18:29
+https://gigatron.rs,200.0,0.103,UP,970.87,2026-04-08 20:18:29
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 20:18:29
+https://google.com,200.0,2.258,UP,44.29,2026-04-08 20:23:32
+https://github.com,200.0,0.619,UP,161.55,2026-04-08 20:23:32
+https://gigatron.rs,200.0,0.153,UP,653.59,2026-04-08 20:23:32
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 20:23:32
+https://google.com,200.0,2.935,UP,34.07,2026-04-08 20:28:37
+https://github.com,200.0,0.895,UP,111.73,2026-04-08 20:28:37
+https://gigatron.rs,200.0,0.109,UP,917.43,2026-04-08 20:28:37
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 20:28:37
+https://google.com,200.0,1.787,UP,55.96,2026-04-08 20:33:40
+https://github.com,200.0,0.254,UP,393.7,2026-04-08 20:33:40
+https://gigatron.rs,200.0,0.677,UP,147.71,2026-04-08 20:33:40
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 20:33:40
+https://google.com,200.0,1.242,UP,80.52,2026-04-08 20:38:42
+https://github.com,200.0,0.247,UP,404.86,2026-04-08 20:38:42
+https://gigatron.rs,200.0,0.09,UP,1111.11,2026-04-08 20:38:42
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 20:38:42
+https://google.com,200.0,1.22,UP,81.97,2026-04-08 20:43:44
+https://github.com,200.0,0.227,UP,440.53,2026-04-08 20:43:44
+https://gigatron.rs,200.0,0.133,UP,751.88,2026-04-08 20:43:44
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 20:43:44
+https://google.com,200,1.16,UP,86.21,2026-04-08 20:44:51
+https://github.com,200,0.241,UP,414.94,2026-04-08 20:44:51
+https://gigatron.rs,200,0.081,UP,1234.57,2026-04-08 20:44:51
+https://google.com,200,1.066,UP,93.81,2026-04-08 20:44:52
+https://github.com,200,0.216,UP,462.96,2026-04-08 20:44:52
+https://gigatron.rs,200,0.088,UP,1136.36,2026-04-08 20:44:52
+https://google.com,200.0,1.272,UP,78.62,2026-04-08 20:48:46
+https://github.com,200.0,0.213,UP,469.48,2026-04-08 20:48:46
+https://gigatron.rs,200.0,0.103,UP,970.87,2026-04-08 20:48:46
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 20:48:46
+https://google.com,200.0,1.201,UP,83.26,2026-04-08 20:53:47
+https://github.com,200.0,0.235,UP,425.53,2026-04-08 20:53:47
+https://gigatron.rs,200.0,0.093,UP,1075.27,2026-04-08 20:53:47
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 20:53:47
+https://google.com,200.0,1.209,UP,82.71,2026-04-08 20:58:49
+https://github.com,200.0,0.277,UP,361.01,2026-04-08 20:58:49
+https://gigatron.rs,200.0,0.103,UP,970.87,2026-04-08 20:58:49
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 20:58:49
+https://google.com,200.0,1.268,UP,78.86,2026-04-08 21:03:51
+https://github.com,200.0,0.232,UP,431.03,2026-04-08 21:03:51
+https://gigatron.rs,200.0,0.143,UP,699.3,2026-04-08 21:03:51
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 21:03:51
+https://google.com,200.0,1.042,UP,95.97,2026-04-08 21:08:53
+https://github.com,200.0,0.225,UP,444.44,2026-04-08 21:08:53
+https://gigatron.rs,200.0,0.118,UP,847.46,2026-04-08 21:08:53
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 21:08:53
+https://google.com,200.0,1.192,UP,83.89,2026-04-08 21:13:55
+https://github.com,200.0,0.241,UP,414.94,2026-04-08 21:13:55
+https://gigatron.rs,200.0,0.185,UP,540.54,2026-04-08 21:13:55
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 21:13:55
+https://google.com,200.0,1.007,UP,99.3,2026-04-08 21:18:57
+https://github.com,200.0,0.238,UP,420.17,2026-04-08 21:18:57
+https://gigatron.rs,200.0,0.105,UP,952.38,2026-04-08 21:18:57
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 21:18:57
+https://google.com,200.0,1.365,UP,73.26,2026-04-08 21:23:59
+https://github.com,200.0,0.232,UP,431.03,2026-04-08 21:23:59
+https://gigatron.rs,200.0,0.131,UP,763.36,2026-04-08 21:23:59
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 21:23:59
+https://google.com,200.0,1.66,UP,60.24,2026-04-08 21:39:13
+https://github.com,200.0,0.208,UP,480.77,2026-04-08 21:39:13
+https://gigatron.rs,200.0,0.089,UP,1123.6,2026-04-08 21:39:13
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 21:39:13
+https://google.com,200.0,1.135,UP,88.11,2026-04-08 21:44:14
+https://github.com,200.0,0.242,UP,413.22,2026-04-08 21:44:14
+https://gigatron.rs,200.0,0.104,UP,961.54,2026-04-08 21:44:14
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 21:44:14
+https://google.com,200,1.125,UP,88.89,2026-04-08 21:44:54
+https://github.com,200,0.204,UP,490.2,2026-04-08 21:44:54
+https://gigatron.rs,200,0.108,UP,925.93,2026-04-08 21:44:54
+https://google.com,200,1.073,UP,93.2,2026-04-08 21:44:54
+https://github.com,200,0.212,UP,471.7,2026-04-08 21:44:54
+https://gigatron.rs,200,0.134,UP,746.27,2026-04-08 21:44:54
+https://google.com,200.0,1.114,UP,89.77,2026-04-08 21:49:16
+https://github.com,200.0,0.214,UP,467.29,2026-04-08 21:49:16
+https://gigatron.rs,200.0,0.074,UP,1351.35,2026-04-08 21:49:16
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 21:49:16
+https://google.com,200.0,1.267,UP,78.93,2026-04-08 21:54:19
+https://github.com,200.0,0.215,UP,465.12,2026-04-08 21:54:19
+https://gigatron.rs,200.0,0.094,UP,1063.83,2026-04-08 21:54:19
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 21:54:19
+https://google.com,200.0,1.177,UP,84.96,2026-04-08 21:59:20
+https://github.com,200.0,0.218,UP,458.72,2026-04-08 21:59:20
+https://gigatron.rs,200.0,0.095,UP,1052.63,2026-04-08 21:59:20
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 21:59:20
+https://google.com,200.0,1.799,UP,55.59,2026-04-08 22:04:23
+https://github.com,200.0,0.241,UP,414.94,2026-04-08 22:04:23
+https://gigatron.rs,200.0,0.092,UP,1086.96,2026-04-08 22:04:23
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 22:04:23
+https://google.com,200.0,1.172,UP,85.32,2026-04-08 22:09:24
+https://github.com,200.0,0.234,UP,427.35,2026-04-08 22:09:24
+https://gigatron.rs,200.0,0.105,UP,952.38,2026-04-08 22:09:24
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 22:09:24
+https://google.com,200.0,1.143,UP,87.49,2026-04-08 22:14:26
+https://github.com,200.0,0.215,UP,465.12,2026-04-08 22:14:26
+https://gigatron.rs,200.0,0.09,UP,1111.11,2026-04-08 22:14:26
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 22:14:26
+https://google.com,200.0,1.257,UP,79.55,2026-04-08 22:19:28
+https://github.com,200.0,0.215,UP,465.12,2026-04-08 22:19:28
+https://gigatron.rs,200.0,0.137,UP,729.93,2026-04-08 22:19:28
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 22:19:28
+https://google.com,200.0,1.312,UP,76.22,2026-04-08 22:24:31
+https://github.com,200.0,0.216,UP,462.96,2026-04-08 22:24:31
+https://gigatron.rs,200.0,0.157,UP,636.94,2026-04-08 22:24:31
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 22:24:31
+https://google.com,200.0,1.071,UP,93.37,2026-04-08 22:29:32
+https://github.com,200.0,0.208,UP,480.77,2026-04-08 22:29:32
+https://gigatron.rs,200.0,0.107,UP,934.58,2026-04-08 22:29:32
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 22:29:32
+https://google.com,200.0,1.13,UP,88.5,2026-04-08 22:34:34
+https://github.com,200.0,0.23,UP,434.78,2026-04-08 22:34:34
+https://gigatron.rs,200.0,0.101,UP,990.1,2026-04-08 22:34:34
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 22:34:34
+https://google.com,200.0,1.298,UP,77.04,2026-04-08 22:39:36
+https://github.com,200.0,0.202,UP,495.05,2026-04-08 22:39:36
+https://gigatron.rs,200.0,0.107,UP,934.58,2026-04-08 22:39:36
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 22:39:36
+https://google.com,200.0,1.186,UP,84.32,2026-04-08 22:44:37
+https://github.com,200.0,0.215,UP,465.12,2026-04-08 22:44:37
+https://gigatron.rs,200.0,0.1,UP,1000.0,2026-04-08 22:44:37
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 22:44:37
+https://google.com,200,1.129,UP,88.57,2026-04-08 22:44:56
+https://github.com,200,0.218,UP,458.72,2026-04-08 22:44:56
+https://gigatron.rs,200,0.09,UP,1111.11,2026-04-08 22:44:56
+https://google.com,200,1.102,UP,90.74,2026-04-08 22:44:56
+https://github.com,200,0.232,UP,431.03,2026-04-08 22:44:56
+https://gigatron.rs,200,0.114,UP,877.19,2026-04-08 22:44:56
+https://google.com,200.0,1.172,UP,85.32,2026-04-08 22:49:39
+https://github.com,200.0,0.212,UP,471.7,2026-04-08 22:49:39
+https://gigatron.rs,200.0,0.096,UP,1041.67,2026-04-08 22:49:39
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 22:49:39
+https://google.com,200.0,1.193,UP,83.82,2026-04-08 22:54:40
+https://github.com,200.0,0.216,UP,462.96,2026-04-08 22:54:40
+https://gigatron.rs,200.0,0.094,UP,1063.83,2026-04-08 22:54:40
+https://sajdksajd.com,,,DOWN (Error),0.0,2026-04-08 22:54:40
